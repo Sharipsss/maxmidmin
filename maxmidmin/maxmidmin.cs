@@ -1,4 +1,6 @@
-﻿namespace MMM
+﻿using System;
+
+namespace MMM
 {
     class MaxMidMin
     {
